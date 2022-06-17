@@ -1,5 +1,6 @@
 [
   {
+    "id":"1",
     "tittle": "Sp. Braga anuncia saída de sete jogadoras",
     "description": "O Sporting anunciou esta quinta-feira, em comunicado no site oficial, sete saídas no futebol feminino: Fátima Pinto, Joana Marchão, Andreia Jacinto, Neuza Besugo, Marta Ferreira, Doris Bacic e Mariana Larroquette.
 ",
@@ -7,12 +8,14 @@
     "link": "https://www.record.pt/futebol/futebol-feminino/detalhe/sporting-anuncia-sete-saidas-no-futebol-feminino?ref=Futebol%20Feminino_DestaquesPrincipais"
   },
   {
+    "id":"2",
     "tittle": "Sandra Santos vai investigar",
     "description": "A árbitra de futebol e docente Sandra Santos vai receber 15 mil euros da UEFA para expandir um estudo científico realizado sobre a incidência e prevenção de lesões, experiência e prolongamento de carreiras na arbitragem feminina.",
     "image": "https://cdn.record.pt/images/2022-06/img_920x518$2022_06_10_17_31_49_2005244.png",
     "link": "https://www.record.pt/futebol/arbitragem/detalhe/sandra-santos-vai-investigar-lesoes-nas-arbitras-com-apoio-da-uefa-a-mulher-e-mais-propensa-a-lesoes?ref=Futebol%20Feminino_DestaquesPrincipais"
   },
   {
+    "id":"3",
     "tittle": "Uma força da natureza",
     "description": "organização da Meia Maratona do Douro Vinhateiro recorda Cláudia Calçada",
     "image": "https://cdn.record.pt/images/2022-06/img_920x518$2022_06_04_00_01_28_2002910.jpg",
